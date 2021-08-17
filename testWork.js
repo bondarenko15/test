@@ -1,4 +1,4 @@
-'use strict';
+/* 'use strict';
 
 let numberOfFilms;
 
@@ -70,3 +70,4 @@ function writeYourGenres() {
     }
 }
 writeYourGenres();
+ */
