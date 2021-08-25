@@ -1,6 +1,6 @@
 'use strict';
 
-const arr = [1,882, 3, 16, 9, 55 ];
+const arr = [1, 882, 3, 16, 9, 55 ];
 
 for (let i = 0; i < arr.length; i++) {
     console.log(arr[i]);
@@ -91,11 +91,11 @@ b = b + 5;
 
  };
 
-/*  const num = [2, 5, 7];
+ const num = [2, 5, 7];
 
  log(...num);
 
- */
+
  const newObj = {
      a: 10,
      b: 20, 
